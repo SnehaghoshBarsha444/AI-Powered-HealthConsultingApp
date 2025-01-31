@@ -5,10 +5,11 @@ interface DoctorCardProps {
   name: string;
   specialty: string;
   experience: string;
+  status: string;
   imageUrl: string;
 }
 
-export const DoctorCard = ({ name, specialty, experience, imageUrl }: DoctorCardProps) => {
+export const DoctorCard = ({ name, specialty, experience,status, imageUrl }: DoctorCardProps) => {
   return (
     <Card className="p-6 hover:shadow-lg transition-shadow duration-300 animate-fade-in">
       <div className="flex items-center space-x-4">
