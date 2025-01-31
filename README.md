@@ -1,6 +1,5 @@
 # IsoHeal AI: Medical-Advicer
-
-[![IsoHeal AI](http://ai-powered-health-consulting-app.vercel.app)](http://ai-powered-health-consulting-app.vercel.app)
+*(AI-Powered Health Consulting App)*  
 
 ## Overview
 **IsoHeal AI: Medical-Advicer** is an AI-powered health consulting web application developed by [Sneha Ghosh](https://github.com/SnehaghoshBarsha444). It provides intelligent health insights, symptom analysis, and personalized recommendations to users. The platform allows users to input symptoms and receive potential diagnoses and lifestyle suggestions through a secure and user-friendly interface.
@@ -15,6 +14,7 @@
 - **Frontend:** HTML, CSS, JavaScript
 - **Framework:** Vite
 - **AI Integration:** AI models for health assessment
+- **API Key Integration:**  DeepSeek-R1 API Key
 - **Hosting:** Vercel
 
 ## Live Demo
