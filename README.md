@@ -12,12 +12,12 @@ The **AI-Powered Health Consulting App** is an intelligent web-based platform de
 - **Secure & Confidential** – Protects user data with encryption and privacy measures.
 
 ## Live Demo
-Access the live application here: [AI-Powered Health Consulting App](http://ai-powered-health-consulting-app.vercel.app)
+Access the live application here: [IsoHeal AI : Medical-Advicer](http://ai-powered-health-consulting-app.vercel.app)
 
 ## Technologies Used
 - **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB (if applicable)
+- **Backend:** Vite
+- **Database:** Supabase
 - **AI Integration:** Machine Learning API (e.g., OpenAI, TensorFlow, or a custom-trained model)
 - **Hosting:** Vercel
 
