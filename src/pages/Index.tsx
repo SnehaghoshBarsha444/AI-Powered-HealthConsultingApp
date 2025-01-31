@@ -11,12 +11,14 @@ const Index = () => {
       name: "Dr. Sarah Johnson",
       specialty: "PCOS Specialist",
       experience: "15",
+      status: "Busy",
       imageUrl: "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&q=80&w=200&h=200",
     },
     {
       name: "Dr. Michael Chen",
       specialty: "Pediatrician",
       experience: "12",
+      status: "Busy",
       imageUrl: "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?auto=format&fit=crop&q=80&w=200&h=200",
     },
   ];
@@ -31,8 +33,7 @@ const Index = () => {
       <header className="bg-white shadow-sm">
         <div className="container mx-auto py-6 px-4 flex justify-between items-center">
           <h1 className="font-display text-3xl font-bold text-secondary">
-            IsoHeal AI : Medical-Advicer
-          </h1>
+            IsoHeal AI </h1>
           <Button variant="outline" onClick={handleLogout}>
             Sign Out
           </Button>
