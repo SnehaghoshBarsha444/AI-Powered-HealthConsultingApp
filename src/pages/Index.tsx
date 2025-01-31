@@ -31,7 +31,7 @@ const Index = () => {
       <header className="bg-white shadow-sm">
         <div className="container mx-auto py-6 px-4 flex justify-between items-center">
           <h1 className="font-display text-3xl font-bold text-secondary">
-            Medical Advice AI
+            IsoHeal AI : Medical-Advicer
           </h1>
           <Button variant="outline" onClick={handleLogout}>
             Sign Out
