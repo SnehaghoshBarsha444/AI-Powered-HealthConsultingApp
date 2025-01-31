@@ -19,6 +19,7 @@ export const DoctorCard = ({ name, specialty, experience,status, imageUrl }: Doc
         <div>
           <h3 className="font-display text-lg font-semibold text-secondary">{name}</h3>
           <p className="text-sm text-gray-600">{specialty}</p>
+          <p className="text-sm text-gray-600">{status}</p>
           <p className="text-xs text-gray-500">{experience} years experience</p>
         </div>
       </div>
