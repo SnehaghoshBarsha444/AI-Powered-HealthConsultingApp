@@ -1,32 +1,37 @@
-# AI-Powered Health Consulting App
-🚀 *Empowering healthcare through AI technology!*
+# IsoHeal AI: Medical-Advicer
+
+[![IsoHeal AI](http://ai-powered-health-consulting-app.vercel.app)](http://ai-powered-health-consulting-app.vercel.app)
 
 ## Overview
-The **AI-Powered Health Consulting App** is an intelligent web-based platform designed to provide users with health insights, consultations, and recommendations based on AI-driven analysis. This app leverages machine learning and expert medical databases to offer preliminary assessments and guidance on various health conditions.
+**IsoHeal AI: Medical-Advicer** is an AI-powered health consulting web application developed by [Sneha Ghosh](https://github.com/SnehaghoshBarsha444). It provides intelligent health insights, symptom analysis, and personalized recommendations to users. The platform allows users to input symptoms and receive potential diagnoses and lifestyle suggestions through a secure and user-friendly interface.
 
 ## Features
-- **AI-Based Health Consultation** – Get AI-generated advice on health concerns.
-- **Symptom Checker** – Input symptoms to receive potential diagnoses and next steps.
-- **Personalized Recommendations** – Tailored health tips and lifestyle suggestions.
-- **User-Friendly Interface** – Simple and intuitive design for seamless interaction.
-- **Secure & Confidential** – Protects user data with encryption and privacy measures.
+- 🔍 **AI-Driven Symptom Analysis** – Get potential diagnoses based on input symptoms.
+- 💡 **Personalized Recommendations** – Receive lifestyle and health suggestions tailored to your needs.
+- 🔐 **Secure & User-Friendly Interface** – Ensures a seamless experience for users.
+- 🚀 **Fast & Efficient** – Built with modern web technologies for optimal performance.
+
+## Technology Stack
+- **Frontend:** HTML, CSS, JavaScript
+- **Framework:** Vite
+- **AI Integration:** AI models for health assessment
+- **Hosting:** Vercel
 
 ## Live Demo
-Access the live application here: [IsoHeal AI : Medical-Advicer](http://ai-powered-health-consulting-app.vercel.app)
+Experience **IsoHeal AI**: [Click Here](http://ai-powered-health-consulting-app.vercel.app) 🚀
 
-## Technologies Used
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Vite
-- **Database:** Supabase
-- **AI Integration:** Machine Learning API (e.g., OpenAI, TensorFlow, or a custom-trained model)
-- **Hosting:** Vercel
+## How to Use
+1. Visit the [IsoHeal AI](http://ai-powered-health-consulting-app.vercel.app) website.
+2. Enter your symptoms in the input field.
+3. Click on "Analyze" to receive AI-driven insights and recommendations.
+4. Review the potential diagnoses and lifestyle suggestions.
 
 ## Installation
 To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ai-powered-health-consulting-app.git
+   git clone https://github.com/SnehaghoshBarsha444/ai-powered-health-consulting-app.git
    cd ai-powered-health-consulting-app
    ```
 
@@ -42,29 +47,8 @@ To set up the project locally, follow these steps:
 
 4. Open `http://localhost:3000` in your browser.
 
-## Usage
-- Enter your symptoms in the input field.
-- Click the **Analyze** button to receive AI-generated insights.
-- Follow the provided health recommendations.
-- Always consult a medical professional for final advice.
-
-## Contribution
-We welcome contributions! If you would like to improve this project, follow these steps:
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add new feature"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature-name
-   ```
-5. Submit a pull request.
-
+## Contributing
+Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
 ## 📬 **Contact Information**  
 
@@ -84,4 +68,3 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 **Crafted with precision and passion using Next.js by [Sneha Ghosh](https://snehaghosh-technical-isopod-portfolio.vercel.app/)**
-
