@@ -57,8 +57,8 @@ const Auth = () => {
           </h1>
           <p className="text-gray-600 mt-2">
             {isSignUp
-              ? "Sign up to get medical advice"
-              : "Sign in to continue to Medical Advice AI"}
+              ? "Sign up to get IsoHeal AI : Medical-Advicer"
+              : "Sign in to continue to IsoHeal AI : Medical-Advicer"}
           </p>
         </div>
         <form onSubmit={handleAuth} className="space-y-4">
