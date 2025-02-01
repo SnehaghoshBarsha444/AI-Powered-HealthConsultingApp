@@ -76,15 +76,12 @@ const Index = () => {
               Meet Our Expert Doctors
             </h2>
           </div>
-          <div className="flex justify-center">
-          <div className="grid md:grid-cols-2 gap-6 max-w-4xl mx-auto text-center">
-               {doctors.map((doctor) => (
-      <DoctorCard key={doctor.name} {...doctor} />
-    ))}
-  </div>
-</div>
+        <div className="grid md:grid-cols-2 gap-6 max-w-4xl mx-auto">
+            {doctors.map((doctor) => (
+              <DoctorCard key={doctor.name} {...doctor} />
+            ))}
+          </div>
         </section>
-
         <section className="space-y-6">
           <div className="text-center">
             <span className="px-3 py-1 text-sm bg-primary/10 text-primary rounded-full">
