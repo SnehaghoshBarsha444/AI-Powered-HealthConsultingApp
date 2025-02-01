@@ -35,7 +35,13 @@ const Index = () => {
       status: "Busy",
       imageUrl: "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?auto=format&fit=crop&q=80&w=200&h=200",
     },
-    
+    {
+      name: "Dr. Manisha Sen",
+      specialty: "Ophthalmologist",
+      experience: "5",
+      status: "Busy",
+      imageUrl: "https://images.unsplash.com/photo-1527613426441-4da17471b66d?q=80&w=1452&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    },
   ];
 
   const handleLogout = async () => {
