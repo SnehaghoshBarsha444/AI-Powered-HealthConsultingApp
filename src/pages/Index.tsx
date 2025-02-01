@@ -17,9 +17,9 @@ const Index = () => {
     {
       name: "Dr. Michael Chen",
       specialty: "Pediatrician",
-      experience: "12",
+      experience: "17",
       status: "Busy",
-      imageUrl: "https://images.unsplash.com/photo-1700041785712-649e859d9909?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      imageUrl: "https://plus.unsplash.com/premium_photo-1702598505193-dfbc11237822?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     },
     {
       name: "Dr. Pranjalika Agarwal",
